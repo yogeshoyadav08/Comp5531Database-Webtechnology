@@ -65,9 +65,8 @@ Example
 
 ## HTML Page Structure
 
-```bash
 ![alt text](https://github.com/yogeshoyadav08/Comp5531Database-Webtechnology/images/HTML.png?raw=true)
-```
+
 
 ## Show Grants
 
