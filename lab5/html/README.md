@@ -258,7 +258,7 @@ Open in New Tab
 			</div>
 			<br>
 ```
-## Add Age and Date labesl
+## Add Age and Date label
 
 ```bash
 <div>
