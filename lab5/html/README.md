@@ -62,10 +62,10 @@ Example
 
 ```
 
-
+lab5/html/images/HTML.png
 ## HTML Page Structure
 
-![alt text](https://github.com/yogeshoyadav08/Comp5531Database-Webtechnology/images/HTML.png?raw=true)
+![alt text](https://github.com/yogeshoyadav08/Comp5531Database-Webtechnology/lab5/html/images/HTML.png?raw=true)
 
 
 ## Show Grants
