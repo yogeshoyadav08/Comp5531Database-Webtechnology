@@ -82,7 +82,7 @@ lab5/html/images/HTML.png
 
 ```
 
-## Add Headers in boday tag
+## Add Headers in body tag
 
 ```bash
 <!DOCTYPE html>
@@ -102,7 +102,7 @@ lab5/html/images/HTML.png
 </html>
 ```
 
-## Add Paragraphs in the boday tag
+## Add Paragraphs in the body tag
 
 ```bash
 <p>
@@ -149,7 +149,7 @@ lab5/html/images/HTML.png
 <a href="about.html">Links</a>
 <a href="#">Links</a>
 
-Open in New Tab
+Opens in New Tab
 <a href="http://google.com" target="_blank">Links</a>
 
 ```
