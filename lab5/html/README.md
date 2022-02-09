@@ -127,7 +127,7 @@ lab5/html/images/HTML.png
 
 ## Inline vs Block level Elements
 
-![alt text](https://github.com/yogeshoyadav08/Comp5531Database-Webtechnology/blob/main/lab5/html/images/HTML.png?raw=true)
+![alt text](https://github.com/yogeshoyadav08/Comp5531Database-Webtechnology/blob/main/lab5/html/images/inline.png?raw=true)
 
 ## Add strong and emphasize tag in your <p>
 
@@ -155,7 +155,7 @@ Open in New Tab
 ```
 
 ## Tag Attributes
-![alt text](https://github.com/yogeshoyadav08/Comp5531Database-Webtechnology/blob/main/lab5/html/images/HTML.png?raw=true)
+![alt text](https://github.com/yogeshoyadav08/Comp5531Database-Webtechnology/blob/main/lab5/html/images/tagattributes.png?raw=true)
 
 ## Add Lists - Unordered and Ordered List
 
@@ -326,7 +326,7 @@ Open in New Tab
 ```
 
 ##  HTML Semantics
-![alt text](https://github.com/yogeshoyadav08/Comp5531Database-Webtechnology/blob/main/lab5/html/images/HTML.png?raw=true)
+![alt text](https://github.com/yogeshoyadav08/Comp5531Database-Webtechnology/blob/main/lab5/html/images/htmlsemantics.png?raw=true)
 
 ##  Create a New File - blog.html
 
@@ -415,4 +415,4 @@ Open in New Tab
 
 ```
 ##  Create a Survey Form
-![alt text](https://github.com/yogeshoyadav08/Comp5531Database-Webtechnology/blob/main/lab5/html/images/HTML.png?raw=true)
+![alt text](https://github.com/yogeshoyadav08/Comp5531Database-Webtechnology/blob/main/lab5/html/images/survey.png?raw=true)
