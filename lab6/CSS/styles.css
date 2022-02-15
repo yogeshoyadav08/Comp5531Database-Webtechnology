@@ -1,0 +1,17 @@
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: rgb(20, 20, 20);
+  }
+  p {
+    color: red;
+  }
+  .form-body{
+    border: 2px solid rgb(10, 10, 10);
+    margin: 50px;
+    padding: 30px;
+  }
+  table, th, td {
+    border: 1px solid;
+  }
