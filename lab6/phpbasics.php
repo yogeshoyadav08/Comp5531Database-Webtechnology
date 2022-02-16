@@ -31,8 +31,6 @@ echo 'Birthday - '.$birthday.'</br>';
 
 echo '</br> ************************************************* </br>';
 
-
-
 /* Variables */
 $var = 30;
 $str = 'Hello World';
@@ -40,7 +38,7 @@ $str = 'Hello World';
 echo $var.'</br>';
 echo $str.'</br>';
 
-/* Constands */
+/* Constants */
 
 define('Pi',3.1456789);
 echo ' The value of Pi is '.Pi.'</br>';

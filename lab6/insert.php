@@ -2,7 +2,7 @@
 
 require_once("connection.php");
 
-if (isset($_POST['submit']))
+if (isset($_POST['submit'])) // isset() function - checks whether a variable is set, which means that it has to be declared and is not NULL
 {
     if (empty($_POST['name']) || empty($_POST['email']) || empty($_POST['age']) )
     {

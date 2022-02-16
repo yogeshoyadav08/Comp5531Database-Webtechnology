@@ -28,8 +28,8 @@ $result = mysqli_query($con,$query);
                                                 <th>Name</th>
                                            		<th>Email</th>
                                            		<th>Age</th>
-                                                   <th>Edit</th>
-                                                   <th>Delete</th>
+                                                <th>Edit</th>
+                                                <th>Delete</th>
                                         </tr>
                                 </thead>
                                 <tbody>
