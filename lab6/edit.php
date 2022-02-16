@@ -28,7 +28,7 @@ while($row = mysqli_fetch_assoc($result))
     <link rel="stylesheet" a href="CSS/styles.css"/> 
     <title>Edit Form</title>
 </head>
-<body class="bg-dark">
+<body >
 
                     <div >
                         <div class="title">
