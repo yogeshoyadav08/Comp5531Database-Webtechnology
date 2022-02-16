@@ -1,6 +1,6 @@
  <?php
 
-$con = mysqli_connect("localhost","root","YY08@mysql","userdetails");
+$con = mysqli_connect("localhost","UserName","Password","Database");
 
 if(!$con)
 {
