@@ -1,5 +1,3 @@
-// ATTENTION: THIS IS CODE FROM THE YOUTUBE CRASH COURSE. IT IS NOT MEANT TO RUN, IT IS JUST FOR LEARNING PURPOSES //
-
 // LOGGING OUTPUT
 /*
 alert('Hello World'); // Do not use for debugging. Stops script and only strings
